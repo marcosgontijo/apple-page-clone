@@ -24,3 +24,5 @@ Criei este projeto com o objetivo específico de ajudar iniciantes a compreender
 
 Este projeto foi feito o deploy em :  [AWS S3](https://aws.amazon.com/pt/s3/) service.
 
+
+![Untitled ‑ Made with FlexClip](https://github.com/marcosgontijo/apple-page-clone/assets/61912797/24119f0a-5c61-4afc-bfc2-3d14a2a973b6)
