@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Este projeto é um clone da página inicial do site da Apple seguindo o Figma compartilhado na [Comunidade Figma por David Somper] (https://www.youtube.com/watch?v=yYgkh7n5Ubg).
+Este projeto é um clone da página inicial do site da Apple seguindo o Figma compartilhado na [Comunidade Figma por David Somper].
 
 Criei este projeto com o objetivo específico de ajudar iniciantes a compreender os fundamentos do desenvolvimento web.
 ## Stack
