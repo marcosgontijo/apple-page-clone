@@ -23,6 +23,8 @@ Criei este projeto com o objetivo específico de ajudar iniciantes a compreender
 ## Deploy
 
 Este projeto foi feito o deploy em :  [AWS S3](https://aws.amazon.com/pt/s3/) service.
+##Acesse em:
+<h1>http://apple-website-homepage.s3-website.us-east-2.amazonaws.com/</h1>
 
 
 ![Untitled ‑ Made with FlexClip](https://github.com/marcosgontijo/apple-page-clone/assets/61912797/24119f0a-5c61-4afc-bfc2-3d14a2a973b6)
